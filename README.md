@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicpagan
+- 👋 Hi, I’m @nicpagan (Nicole Pagan)
 - 👀 I’m interested in: gaming, anime, and taco bell
 - 🌱 I’m currently learning: React
 - 💞️ I’m looking to collaborate on: anything! 
