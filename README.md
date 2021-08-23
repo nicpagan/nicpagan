@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicpagan (Nicole Pagan)
 - 👀 I’m interested in: gaming, anime, and taco bell
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: React hooks
 - 💞️ I’m looking to collaborate on: anything! 
 - 📫 How to reach me: 
 email - nicxpagan@gmail.com
